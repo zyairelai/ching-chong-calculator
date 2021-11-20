@@ -1,5 +1,5 @@
 # ching-chong-calculator
-滴天髄、穷通宝鉴、三命通会
+滴天髄、穷通宝鉴、三命通会 https://m.smxs.com/bazi/index.html
 
 ### 十天干
 | 排序  | 天干 | 读音  |
